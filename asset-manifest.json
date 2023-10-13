@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.f0775f7f.css",
+    "main.js": "/Weather-App/static/js/main.43a6300e.js",
+    "static/js/787.d9312eb8.chunk.js": "/Weather-App/static/js/787.d9312eb8.chunk.js",
+    "static/media/vilige.jpg": "/Weather-App/static/media/vilige.b9dfd255c97ebdfba1bb.jpg",
+    "static/media/defaultImage.jpg": "/Weather-App/static/media/defaultImage.4d95d7247146c868f865.jpg",
+    "static/media/snow.svg": "/Weather-App/static/media/snow.3b8aa3fc3f0a3b74f3ea7b5baab20954.svg",
+    "static/media/rainyImage.svg": "/Weather-App/static/media/rainyImage.0b02e108a35325f17783bcdcea875985.svg",
+    "static/media/cloudyImage.svg": "/Weather-App/static/media/cloudyImage.37bec56899504381260dc600f1b6f826.svg",
+    "static/media/clearSkyImage.svg": "/Weather-App/static/media/clearSkyImage.294cd8b8e3bdba17307b8273989c5421.svg",
+    "static/media/storm.svg": "/Weather-App/static/media/storm.d4f8707096fc78e220f86fb0c7cd1f50.svg",
+    "static/media/mist.svg": "/Weather-App/static/media/mist.293d6139a9f9ab521104846977532b24.svg",
+    "index.html": "/Weather-App/index.html",
+    "main.f0775f7f.css.map": "/Weather-App/static/css/main.f0775f7f.css.map",
+    "main.43a6300e.js.map": "/Weather-App/static/js/main.43a6300e.js.map",
+    "787.d9312eb8.chunk.js.map": "/Weather-App/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0775f7f.css",
+    "static/js/main.43a6300e.js"
+  ]
+}
